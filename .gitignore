@@ -1,0 +1,4 @@
+*.html
+//wildcard identifier is * only html files to be ignored
+index.html
+//sirf index wala ignore hoga
